@@ -1,4 +1,5 @@
 # **Focus Line App**
+![image](https://github.com/user-attachments/assets/3ee42e9b-f009-4018-987f-2b1acfd0cb67)
 
 This app is designed to help manage stress while working on a computer by reminding users to take breaks when necessary. The app is built with a neural network that analyzes users' stress levels based on facial expressions.
 
